@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello&nbsp;👋&nbsp;I'm&nbsp;Seunghyeon!&nbsp;&nbsp;&nbsp;&nbsp;&fontAlign=55&fontAlignY=40&fontSize=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello&nbsp;👋&nbsp;I'm&nbsp;Seunghyun!&nbsp;&nbsp;&nbsp;&nbsp;&fontAlign=55&fontAlignY=40&fontSize=40&color=gradient)
 
 <div align="center">
   <h2>📚 Tech Stack 📚</h2>
