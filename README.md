@@ -10,8 +10,7 @@
 	<img src="https://img.shields.io/badge/Javascript-ffe300?style=flat&logo=Javascript&logoColor=white"/>
 	<img src="https://img.shields.io/badge/React-40AEF0?style=flat&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
-	
-  <h3>Studying</h3>
+	<br/>
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
 
